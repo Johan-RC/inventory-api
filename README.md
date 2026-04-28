@@ -10,11 +10,11 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-![Backend](https://img.shields.io/badge/backend-springboot-green?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/frontend-bootstrap-blue?style=for-the-badge)
-![Database](https://img.shields.io/badge/database-postgresql-blue?style=for-the-badge)
-![Deploy](https://img.shields.io/badge/deploy-render-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/status-active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/backend-springboot-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/frontend-bootstrap-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/database-postgresql-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/deploy-render-black?style=for-the-badge"/>
 
 ---
 
@@ -32,88 +32,131 @@ Incluye API REST, base de datos real, interfaz web y despliegue automático.
 
 ## 🧱 Arquitectura
 
-Frontend (Bootstrap + JS)
-        ↓
-Backend (Spring Boot API REST)
-        ↓
-Database (PostgreSQL - Render)
-🌐 Repositorios
-Módulo	Link
-🧠 Backend	https://github.com/Johan-RC/inventory-back-end
+Frontend (Bootstrap + JS)  
+⬇  
+Backend (Spring Boot API REST)  
+⬇  
+Database (PostgreSQL - Render)  
 
-🎨 Frontend	https://github.com/Johan-RC/inventory-front-end
+---
 
-🗄️ Database	https://github.com/Johan-RC/inventory-database
-⚙️ Tecnologías
-Backend	Frontend	DevOps
-☕ Java 21	💠 Bootstrap	⚙️ GitHub Actions
-🌱 Spring Boot	HTML + JS	☁️ Render
-🐘 PostgreSQL	CSS	🔄 CI/CD
-🔄 Liquibase		
-⚡ Funcionalidades
+## 🌐 Repositorios
 
-✔ CRUD de Categorías
-✔ CRUD de Proveedores
-✔ CRUD de Productos
-✔ Relaciones entre entidades
-✔ Persistencia en PostgreSQL
-✔ Interfaz web funcional
-✔ Deploy en la nube
-✔ CI/CD automático
+🧠 Backend  
+https://github.com/Johan-RC/inventory-back-end  
 
-🔗 API Endpoints
-📂 Categorías
-GET    /api/categories
-POST   /api/categories
-PUT    /api/categories/{id}
-DELETE /api/categories/{id}
-🚚 Proveedores
-GET    /api/suppliers
-POST   /api/suppliers
-PUT    /api/suppliers/{id}
-DELETE /api/suppliers/{id}
-📦 Productos
-GET    /api/products
-POST   /api/products
-PUT    /api/products/{id}
-DELETE /api/products/{id}
-🚀 Deploy
-Servicio	URL
-Backend	https://inventory-back-end-976w.onrender.com
+🎨 Frontend  
+https://github.com/Johan-RC/inventory-front-end  
 
-Frontend	https://inventory-front-end-l143.onrender.com
-🔁 CI/CD
+🗄️ Database  
+https://github.com/Johan-RC/inventory-database  
+
+---
+
+## ⚙️ Tecnologías
+
+☕ Java 21  
+🌱 Spring Boot  
+🐘 PostgreSQL  
+💠 Bootstrap  
+⚙️ GitHub Actions  
+☁️ Render  
+🔄 CI/CD  
+
+---
+
+## ⚡ Funcionalidades
+
+✔ CRUD de Categorías  
+✔ CRUD de Proveedores  
+✔ CRUD de Productos  
+✔ Relaciones entre entidades  
+✔ Persistencia en PostgreSQL  
+✔ Interfaz web funcional  
+✔ Deploy en la nube  
+✔ CI/CD automático  
+
+---
+
+## 🔗 API Endpoints
+
+📂 Categorías  
+GET /api/categories  
+POST /api/categories  
+PUT /api/categories/{id}  
+DELETE /api/categories/{id}  
+
+🚚 Proveedores  
+GET /api/suppliers  
+POST /api/suppliers  
+PUT /api/suppliers/{id}  
+DELETE /api/suppliers/{id}  
+
+📦 Productos  
+GET /api/products  
+POST /api/products  
+PUT /api/products/{id}  
+DELETE /api/products/{id}  
+
+---
+
+## 🚀 Deploy
+
+Backend  
+https://inventory-back-end-976w.onrender.com  
+
+Frontend  
+https://inventory-front-end-l143.onrender.com  
+
+---
+
+## 🔁 CI/CD
 
 Cada push ejecuta automáticamente:
 
-git push origin main
+git push origin main  
 
-Pipeline:
+✔ Build backend  
+✔ Validación  
+✔ Deploy automático en Render  
 
-✔ Build backend
-✔ Validación
-✔ Deploy automático en Render
+---
 
-🗄️ Base de datos
+## 🗄️ Base de datos
 
-PostgreSQL en Render
-Migraciones con Liquibase
-Versionado del esquema
+PostgreSQL en Render  
+Migraciones con Liquibase  
+Versionado del esquema  
 
-🧩 Modelo de datos
-Category 1 ──── N Product
-Supplier 1 ──── N Product
-🔄 Flujo del sistema
-Usuario → Frontend → API → Base de datos
-👨‍💻 Autor
+---
 
-Johan Steven Rodríguez Charry
+## 🧩 Modelo de datos
+
+Category 1 → N Product  
+Supplier 1 → N Product  
+
+---
+
+## 🔄 Flujo del sistema
+
+Usuario → Frontend → API → Base de datos  
+
+---
+
+## 👨‍💻 Autor
+
+Johan Steven Rodríguez Charry  
 
 Proyecto académico enfocado en:
 
-✔ Full Stack
-✔ CI/CD
-✔ Deploy en la nube
+✔ Full Stack  
+✔ CI/CD  
+✔ Deploy en la nube  
 
-💥 Estado del Proyecto
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Backend+✔;Frontend+✔;Database+✔;CI%2FCD+✔;Deploy+✔" /> </div>
+---
+
+## 💥 Estado del Proyecto
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Backend+✔;Frontend+✔;Database+✔;CI%2FCD+✔;Deploy+✔" />
+
+</div>
