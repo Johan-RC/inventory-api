@@ -6,37 +6,64 @@
 
 ### 📦 Sistema Full Stack de Inventario
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Spring+Boot+API;PostgreSQL+Database;Bootstrap+Frontend;Deploy+en+Render;CI%2FCD+con+GitHub+Actions;Proyecto+Acad%C3%A9mico+Full+Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Spring+Boot+API;PostgreSQL+Database;Bootstrap+Frontend;Deploy+en+Render;CI%2FCD+con+GitHub+Actions;Proyecto+Full+Stack+Real" />
 
 <br>
 
+<a href="https://inventory-front-end-l143.onrender.com">
+  <img src="https://img.shields.io/badge/🌐_Ver_Demo-Live-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://inventory-back-end-976w.onrender.com/api/products">
+  <img src="https://img.shields.io/badge/API-Test-green?style=for-the-badge"/>
+</a>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROJECT-ACADEMIC-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CI/CD-ACTIVE-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DEPLOY-RENDER-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STACK-FULL--STACK-blue?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🧠 Descripción
 
-✨ Sistema completo de gestión de inventario que permite administrar:
+✨ Aplicación full stack para la gestión de inventario que permite administrar:
 
 📦 Productos  
 🏷️ Categorías  
 🚚 Proveedores  
 
-💡 Incluye API REST, base de datos real, interfaz web y despliegue automático.
+💡 Incluye API REST, base de datos real, frontend interactivo y despliegue automático.
+
+---
+
+## 📸 Vista del sistema
+
+<div align="center">
+
+<img src="https://via.placeholder.com/800x400.png?text=Inventory+App+Preview" width="90%"/>
+
+</div>
+
+> 💡 Aquí luego puedes poner capturas reales de tu app (queda brutal)
 
 ---
 
 ## 🧱 Arquitectura
 
-💻 Frontend (Bootstrap + JS)  
+<div align="center">
+
+Frontend (Bootstrap + JS)  
 ⬇  
-⚙️ Backend (Spring Boot API REST)  
+Backend (Spring Boot API REST)  
 ⬇  
-🗄️ Database (PostgreSQL - Render)  
+Database (PostgreSQL - Render)  
+
+</div>
 
 ---
 
@@ -55,13 +82,12 @@
 
 ## ⚙️ Tecnologías
 
-☕ Java 21  
-🌱 Spring Boot  
-🐘 PostgreSQL  
-💠 Bootstrap  
-⚙️ GitHub Actions  
-☁️ Render  
-🔄 CI/CD  
+<div align="center">
+
+☕ Java 21 • 🌱 Spring Boot • 🐘 PostgreSQL  
+💠 Bootstrap • ⚙️ GitHub Actions • ☁️ Render  
+
+</div>
 
 ---
 
@@ -102,23 +128,23 @@ DELETE /api/products/{id}
 
 ## 🚀 Deploy
 
-🌐 Backend  
-👉 https://inventory-back-end-976w.onrender.com  
-
-🎨 Frontend  
+🌐 Frontend  
 👉 https://inventory-front-end-l143.onrender.com  
+
+⚙️ Backend  
+👉 https://inventory-back-end-976w.onrender.com  
 
 ---
 
 ## 🔁 CI/CD
 
-🚀 Cada push ejecuta automáticamente:
+🚀 Automatización completa con GitHub Actions
 
-git push origin main  
+Cada push ejecuta:
 
 ✔ Build backend  
 ✔ Validación  
-✔ Deploy automático en Render  
+✔ Deploy automático  
 
 ---
 
@@ -155,18 +181,24 @@ Supplier 1 → N Product
 
 🎓 Proyecto académico enfocado en:
 
-✔ Full Stack Development  
-✔ CI/CD con GitHub Actions  
+✔ Full Stack  
+✔ CI/CD  
 ✔ Deploy en la nube  
 
 ---
 
 ## 💥 Estado del Proyecto
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Backend+✔;Frontend+✔;Database+✔;CI%2FCD+✔;Deploy+✔;Ready+for+presentation+🔥" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Backend+✔;Frontend+✔;Database+✔;CI%2FCD+✔;Deploy+✔;Ready+🔥" />
+
+</div>
 
 ---
 
-### 🎉 Hecho con ❤️, café ☕ y mucho código
+<div align="center">
+
+### ⭐ Si te gusta el proyecto, dale una estrella ⭐
 
 </div>
